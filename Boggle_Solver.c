@@ -34,6 +34,7 @@
   *          EFGHIJ
   *
   *  Dictionary is all in CAPS to board has to be as well.
+  *  Dictionary is a word per line
   */
 const int N = 6;
 const int minimumWordLength = 3;
